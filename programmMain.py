@@ -1,2 +1,2 @@
-print('Mei Dick is a 30cm BBC');
+dprint('Mei Dick is a 30cm BBC');
 print('Du Nudelsohn');
